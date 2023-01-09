@@ -36,13 +36,13 @@
 #nice h2 {
   display:block;
   text-align:center;
-  background-image: 	url(https://static.goodrain.com/logo/logo.png); 
+  background-image: 	url(https://static.goodrain.com/logo/logo-2.png); 
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: initial;
   background-origin: initial;
   background-clip: initial;
-  background-size: 30px;
+  background-size: 25px;
   margin-top: 1em;
   margin-bottom: 10px;
 }
@@ -62,7 +62,7 @@
   background-origin: initial;
   background-clip: initial;
   background-size: 63px;
-  margin-top: 75px;
+  margin-top: 35px;
   font-size:22px;
   margin-bottom: 10px;
 }
@@ -90,8 +90,8 @@
 }
 /* 三级标题内容 */
 #nice h3 .content {
-  font-size:16px;
-  font-weight:bold;
+  font-size: 17px;
+  font-weight: bold;
   display:inline-block;
   margin-left:8px;
   color: rgb(90, 185, 131);
