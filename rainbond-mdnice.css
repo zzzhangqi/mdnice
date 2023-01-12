@@ -85,9 +85,7 @@
 #nice h3 {
   margin-top:1.2em;
 }
-#nice h4 {
-  margin-top: 30px;
-}
+
 /* 三级标题内容 */
 #nice h3 .content {
   font-size: 17px;
@@ -99,6 +97,39 @@
 /* 三级标题修饰 请参考有实例的主题 */
 #nice h3:after {
 }
+
+/* 四级标题 */
+#nice h4:before {
+  content: "";
+  /* background-image:url(https://static.goodrain.com/logo/logo.png);
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  display: inline-block;
+  width: 16px;
+  height: 15px;
+  line-height:15px;
+  margin-bottom:-1px;*/
+  color: rgb(90, 185, 131);
+  border-left: 4px solid;
+  padding-left: 5px;
+  
+}
+#nice h4 {
+  margin-top:1.2em;
+}
+
+/* 四级标题内容 */
+#nice h4 .content {
+  font-size: 14px;
+  font-weight: bold;
+  display:inline-block;
+  margin-left:8px;
+  color: rgb(90, 185, 131);
+}
+/* 四级标题修饰 请参考有实例的主题 */
+#nice h3:after {
+}
+
 /* 列表内容 */
 #nice li {
 }
