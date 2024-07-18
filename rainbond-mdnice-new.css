@@ -115,4 +115,8 @@
   box-shadow:2px 4px 7px #999;
 }
 
+#nice ul {
+  color: rgb(90, 185, 131);
+}
+
 /* 更多详细配置方法可参考文档：https://www.mdnice.com/writing/21fb9244801b4f56b3b1959b88ed1c9c*/
