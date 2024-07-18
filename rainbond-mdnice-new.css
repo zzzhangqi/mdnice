@@ -119,4 +119,15 @@
   color: rgb(90, 185, 131);
 }
 
+#nice li .footnote-word {
+  color: rgb(53, 179, 120);
+  font-weight: bold;
+}
+
+#nice li .footnote-ref {
+  color: rgb(53, 179, 120);
+  font-weight: bold;
+}
+
+
 /* 更多详细配置方法可参考文档：https://www.mdnice.com/writing/21fb9244801b4f56b3b1959b88ed1c9c*/
